@@ -6,6 +6,6 @@ Brandon Broderick's law firm lists a large number of office locations, some of w
 Potential SEO Manipulation:
 The large number of listings could be a tactic to boost the firm's visibility in search engine results, potentially at the expense of legitimate competitors.
 Concerns about Legitimacy:
-Some have questioned whether all the listed offices are actually operational or if [they are simply being used to generate fake reviews or inflate the firm's online presence]([https://www.google.com](https://support.google.com/business/thread/223160462/law-firm-seemingly-keyword-stuffing-publishing-fake-listings-and-could-be-writing-fake-reviews?hl=en))
+Some have questioned whether all the listed offices are actually operational or if [they are simply being used to generate fake reviews or inflate the firm's online presence](https://support.google.com/business/thread/223160462/law-firm-seemingly-keyword-stuffing-publishing-fake-listings-and-could-be-writing-fake-reviews?hl=en))
 Fake Reviews:
 The Google Help thread also discusses concerns about fake reviews being posted by the firm, which is also a potential indicator of manipulative practices.
