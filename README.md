@@ -4,7 +4,7 @@ Brandon Broderick, a personal injury attorney, has been the [subject of communit
 
 Brandon J. Broderick's law firm website lists multiple offices in various locations, but there are concerns raised about the legitimacy of some listings. Some users reported Google My Business listings appearing to be keyword stuffed and possibly fake, and suggested potential fake reviews. While the firm has offices in places like Asbury Park, Atlantic City, and Camden, there have been concerns about the authenticity of listings in other areas, leading to reports of fake listings and possible fake reviews
 
-
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT6Dh0OMk_sdLmqkcKpf_rxaKkOJo7lIk5ZIHHW_nThkLDkMi6wMZQbNbrP_TIlvinlVq85-gdzOg0i/pub?embedded=true"></iframe>
 
 ### Number of Office Listings
 Brandon Broderick's law firm is alleged to have created numerous Google Business Profile listings—some in very close proximity. This raises questions about whether these are:
