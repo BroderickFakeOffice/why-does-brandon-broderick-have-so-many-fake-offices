@@ -33,10 +33,10 @@ There are also accusations of:
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",
-    "name": "Why are there so many Brandon Broderick law offices listed online?",
+    "name": "Why are there so many Brandon Broderick law offices listed?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Multiple SEO analysts and community members have raised concerns that the Brandon Broderick law firm may be leveraging excessive GBP listings to manipulate local search rankings. Some listings may not represent real, staffed offices."
+      "text": "Many analysts and community members have raised concerns that the Brandon Broderick law firm may be leveraging excessive GBP listings to manipulate local search rankings. Some listings may not represent real, staffed offices."
     }
   },
   {
