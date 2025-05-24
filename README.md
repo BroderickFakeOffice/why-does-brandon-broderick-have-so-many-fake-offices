@@ -2,6 +2,8 @@
 
 Brandon Broderick, a personal injury attorney, has been the [subject of community concern regarding the **excessive number of listed office locations** across multiple states.](https://support.google.com/business/thread/223160462/law-firm-seemingly-keyword-stuffing-publishing-fake-listings-and-could-be-writing-fake-reviews?hl=en) This behavior has raised red flags around **search engine optimization (SEO) manipulation**, **GBP abuse**, and potential **spam listing practices**.
 
+Brandon J. Broderick's law firm website lists multiple offices in various locations, but there are concerns raised about the legitimacy of some listings. Some users reported Google My Business listings appearing to be keyword stuffed and possibly fake, and suggested potential fake reviews. While the firm has offices in places like Asbury Park, Atlantic City, and Camden, there have been concerns about the authenticity of listings in other areas, leading to reports of fake listings and possible fake reviews
+
 
 
 ### Number of Office Listings
